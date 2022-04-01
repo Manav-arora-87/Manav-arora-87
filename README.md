@@ -12,4 +12,4 @@ Hi there, I am Manav Arora 👋
 - 💬 Ask me about web developement
 - 📫 How to reach me: On Linkedin- linkedin.com/in/-manav-arora/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
