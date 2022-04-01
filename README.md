@@ -73,11 +73,11 @@ Tools
 
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
+[![](https://github-readme-stats.vercel.app/api?username=Manav-arora-87&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
+[![](https://github-readme-streak-stats.herokuapp.com?user=Manav-arora-87&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
-[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
+[![](https://activity-graph.herokuapp.com/graph?username=Manav-arora-87&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshWebDev
