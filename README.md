@@ -1,6 +1,24 @@
 <!-- <img src="./assets/Hello.gif" width="100%"> -->
+<h3>Hii there👋</h3>
+<h2>Manav Arora😃</h2>
+
+<a href="https://github.com/Manav-arora-87">
+  <img src="https://img.shields.io/badge/@manavarora-30302f?style=flat&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/-manav-arora/">
+  <img src="https://img.shields.io/badge/@manavarora-30302f?style=flat&logo=linkedin"/>
+</a>
+
+
+
+- 🔭 I’m currently working on **Personal Projects**. 
+- 🌱 I’m currently focusing on **Data structure and Algorithms**.
+- 👯 I’d like to collaborate on **Django** based projects.
+- 🤔 I'm looking for Internship.
 
 <br>
+
+
 
 <!-- <p align="center">
   <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
