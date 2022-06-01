@@ -16,7 +16,7 @@
 - 👯 I’d like to collaborate on **Django** based projects.
 - 🤔 I'm looking for Internship.
 
-<br>
+<br><br>
 
 
 <img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="400px"/>
